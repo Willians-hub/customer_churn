@@ -49,7 +49,7 @@ Supporting marketing and product decisions with data
 churn_analysis.ipynb   → Main analysis notebook
 🚀 How to Run This Project
 # Clone repository
-git clone https://github.com/Willians-hub/your-repo-name.git
+git clone https://github.com/Willians-hub/customer-churn-analysis.git
 
 # Install dependencies
 pip install pandas numpy matplotlib seaborn
